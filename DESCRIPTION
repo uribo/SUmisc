@@ -1,0 +1,8 @@
+Package: SUmisc
+Title: Personal miscellaneous R Functions
+Version: 0.0.0.9000
+Authors@R: Shinya Uryu <suika1127@gmail.com> [aut, cre]
+Description: What the package does (one paragraph).
+Depends: R (>= 3.2.2)
+License: MIT + file LICENSE
+LazyData: true
