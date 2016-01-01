@@ -1,8 +1,16 @@
 Package: SUmisc
 Title: Personal miscellaneous R Functions
+Date: 2015-01-02
 Version: 0.0.0.9000
 Authors@R: c(person("Shinya", "Uryu", email = "suika1127@gmail.com", role = c("aut", "cre")))
 Description: What the package does (one paragraph).
-Depends: R (>= 3.2.2)
+Depends:
+    R (>= 3.2.2)
+Imports:
+    devtools,
+    ggplot2,
+    httr,
+    magrittr
 License: MIT + file LICENSE
 LazyData: true
+RoxygenNote: 5.0.1
